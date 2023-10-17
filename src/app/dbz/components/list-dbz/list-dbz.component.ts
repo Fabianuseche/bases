@@ -11,7 +11,7 @@ export class ListDbzComponent {
   @Input('delPapa')
   public  characterList: Character[]=[{
     id: '',
-    name: 'Valor por deefcto',
+    name: 'Valor por defecto',
     power: 0
   }]
 
